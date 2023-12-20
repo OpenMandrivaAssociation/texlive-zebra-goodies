@@ -1,6 +1,6 @@
 Name:		texlive-zebra-goodies
-Version:	51554
-Release:	2
+Version:	66630
+Release:	1
 Summary:	A collection of handy macros for paper writing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zebra-goodies
