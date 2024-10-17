@@ -3,7 +3,7 @@ Version:	66630
 Release:	1
 Summary:	A collection of handy macros for paper writing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zebra-goodies
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zebra-goodies
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zebra-goodies.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zebra-goodies.doc.r%{version}.tar.xz
